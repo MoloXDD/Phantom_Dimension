@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "inf_ce_dim:phantom_plains",
+    "inf_ce_dim:phantom_sunflower_plains",
+    "inf_ce_dim:phantom_jungle",
+    "inf_ce_dim:phantom_sparse_jungle",
+    "inf_ce_dim:phantom_bamboo_jungle",
+    "inf_ce_dim:phantom_swamp",
+    "inf_ce_dim:phantom_mangrove_swamp",
+    "inf_ce_dim:phantom_savanna",
+    "inf_ce_dim:phantom_windswept_gravelly_hills",
+    "inf_ce_dim:phantom_windswept_forest"
+  ]
+}

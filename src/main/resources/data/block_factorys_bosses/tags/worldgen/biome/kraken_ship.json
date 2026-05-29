@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "inf_ce_dim:phantom_deep_cold_ocean",
+    "inf_ce_dim:phantom_deep_ocean",
+    "inf_ce_dim:phantom_deep_lukewarm_ocean"
+  ]
+}
