@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "inf_ce_dim:item/scenario_core"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "inf_ce_dim:in_phantom_world": 1.0
+      },
+      "model": "inf_ce_dim:item/scenario_core_phantom"
+    }
+  ]
+}

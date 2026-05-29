@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mixins]]
+config="inf_ce_dim.mixins.json"
+
+[[mods]]
+modId="inf_ce_dim"
+version="1.0.0"
+displayName="IceAndFire Community Edition Dimension"
+description='''
+IceAndFire Community Edition Dimension mod.
+'''
+
+[[dependencies.inf_ce_dim]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.228,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.inf_ce_dim]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.inf_ce_dim]]
+modId="iceandfire"
+type="required"
+versionRange="*"
+ordering="AFTER"
+side="BOTH"

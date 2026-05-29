@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "inf_ce_dim:item/scenario_core_phantom"
+  }
+}

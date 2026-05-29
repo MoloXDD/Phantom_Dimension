@@ -1,0 +1,12 @@
+{
+  "commands.infcedim.swap.success": "Teleported to the phantom world.",
+  "commands.infcedim.swap.wrong_dimension": "You must be in the overworld or phantom world to use this command.",
+  "commands.infcedim.swap.dimension_not_found": "Target dimension not found.",
+  "commands.infcedim.swap.no_safe_pos": "Could not find a safe surface position to teleport to.",
+  "commands.infcedim.swap.entity_no_safe_pos": "A marked entity has no safe position to teleport to.",
+  "item.inf_ce_dim.scenario_core": "Scenario Core",
+  "item.inf_ce_dim.scenario_core.tooltip_line1": "Sneak and right-click to teleport to the phantom dimension.",
+  "item.inf_ce_dim.scenario_core.tooltip_line2": "Right-click an entity to bring it into the phantom dimension.",
+  "item.inf_ce_dim.scenario_core.marked": "Entity marked.",
+  "item.inf_ce_dim.scenario_core.unmarked": "Entity unmarked."
+}

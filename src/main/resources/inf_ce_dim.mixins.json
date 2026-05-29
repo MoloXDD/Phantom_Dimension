@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.molox.infcedim.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ScenarioCoreGlowMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

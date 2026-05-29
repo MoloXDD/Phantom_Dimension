@@ -1,0 +1,30 @@
+{
+  "type": "neoforge:remove_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "entity_types": [
+    "iceandfire:fire_dragon",
+    "iceandfire:ice_dragon",
+    "iceandfire:lightning_dragon",
+    "iceandfire:hippogryph",
+    "iceandfire:gorgon",
+    "iceandfire:cyclops",
+    "iceandfire:siren",
+    "iceandfire:hippocampus",
+    "iceandfire:deathworm",
+    "iceandfire:cockatrice",
+    "iceandfire:stymphalian_bird",
+    "iceandfire:troll",
+    "iceandfire:amphithere",
+    "iceandfire:sea_serpent",
+    "iceandfire:pixie",
+    "iceandfire:dread_thrall",
+    "iceandfire:dread_ghoul",
+    "iceandfire:dread_beast",
+    "iceandfire:dread_scuttler",
+    "iceandfire:dread_lich",
+    "iceandfire:dread_knight",
+    "iceandfire:dread_horse",
+    "iceandfire:hydra",
+    "iceandfire:ghost"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "commands.infcedim.swap.success": "已传送至幻影世界。",
+  "commands.infcedim.swap.wrong_dimension": "你必须在主世界或幻影世界中才能使用此命令。",
+  "commands.infcedim.swap.dimension_not_found": "目标维度未找到。",
+  "commands.infcedim.swap.no_safe_pos": "未能在目标维度找到安全的地面位置。",
+  "commands.infcedim.swap.entity_no_safe_pos": "标记的生物中有无法传送的对象。",
+  "item.inf_ce_dim.scenario_core": "情景核心",
+  "item.inf_ce_dim.scenario_core.tooltip_line1": "蹲下并右键以传送到幻影维度",
+  "item.inf_ce_dim.scenario_core.tooltip_line2": "右键生物以携带它们进入幻影维度",
+  "item.inf_ce_dim.scenario_core.marked": "生物已标记。",
+  "item.inf_ce_dim.scenario_core.unmarked": "生物标记已取消。"
+}
