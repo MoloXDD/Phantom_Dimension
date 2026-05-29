@@ -87,6 +87,11 @@ dependencies {
     localRuntime files('libs/tectonic-neoforge-1.21.1-2.4.1a.jar')
     localRuntime files('libs/lithostitched-1.7.2-neoforge-21.1.jar')
     localRuntime files('libs/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar')
+
+    localRuntime files('libs/geckolib-neoforge-1.21.1-4.8.4.jar')
+    localRuntime files('libs/mowziesmobs-1.21.1-1.8.2.jar')
+    localRuntime files('libs/block_factorys_bosses-2.1.2-neo-1.21.1.jar')
+    //localRuntime files('libs/bosses_rise_hide_dash-1.0.jar')
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
